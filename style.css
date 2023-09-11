@@ -1,0 +1,19 @@
+#page {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+#controls {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    background-color: red;
+}
+
+#canvas {
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+    background-color: blue;
+}
